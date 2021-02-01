@@ -1,6 +1,17 @@
-### Hello World 👋
+```c++
+#include <stdio.h>
 
-My name is Ihwan Mualana, but you can call me Ihwan or Lana
+int main() {
+
+  printf('Hello World');
+  
+  return 0;
+}
+```
+
+## Hello World 👋, My name is Lana
+
+I'm currently
 
 About Me :
 
