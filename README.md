@@ -13,15 +13,32 @@ int main() {
 
 My name is Lana, or you can call me Robert :v
 
-+ :dart: I'm currently learning and [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/)
++ :book: I'm currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/)
 + :computer: I'm looking to collaborate with [Angular TS](https://angular.io/)
++ :dart: Focused on **FrontEnd Development**, but I could do a little bit of **BackEnd Development**
 
-About Me :
+## Programing Language
 
-+ __Focused__ : Web Development
-+ __Language__ : JavaScript, PHP
-+ __Can Use__ :
-  + __Framework FrontEnd__ : Angular or Native (Without Framework)
-  + __Framework Backend__ : Laravel, CodeIgniter or Native PHP (Without Framework)
- 
-For other information, you can visit my Personal Homepage [here](https://lana404.github.io/about)
+<p align="center">
+  <img src="https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=JS&logo=javascript&logoColor=%0">
+
+  <img src="https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=PHP&logo=php&logoColor=%23008080">
+
+  <img src="https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=Dart&logo=dart&logoColor=%23008080">
+<p align="center">
+
+## Framework
+
+<p align="center">
+  <img src="https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=Angular&logo=angular&logoColor=red">
+
+  <img src="https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=Laravel&logo=laravel&logoColor=%0">
+
+  <img src="https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=Flutter&logo=flutter&logoColor=%23008080">
+<p align="center">
+
+## Github Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lana404">
+<p align="center">
