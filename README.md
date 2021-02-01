@@ -4,14 +4,17 @@
 int main() {
 
   printf('Hello World');
-  
+
   return 0;
 }
 ```
 
-## Hello World 👋, My name is Lana
+## Hello World 👋, Let me introduce myself
 
-I'm currently
+My name is Lana, or you can call me Robert :v
+
++ :dart: I'm currently learning and [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/)
++ :computer: I'm looking to collaborate with [Angular TS](https://angular.io/)
 
 About Me :
 
