@@ -22,6 +22,8 @@ My name is Lana, or you can call me Robert :v
 <p align="center">
   <img src="https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=JS&logo=javascript&logoColor=%0">
 
+  <img src="https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=TS&logo=typescript&logoColor=yellow">
+
   <img src="https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=PHP&logo=php&logoColor=%23008080">
 
   <img src="https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=Dart&logo=dart&logoColor=%23008080">
