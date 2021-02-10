@@ -16,6 +16,7 @@ My name is Lana, or you can call me Robert :v
 + :book: I'm currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/)
 + :computer: I'm looking to collaborate with [Angular TS](https://angular.io/)
 + :dart: Focused on **FrontEnd Development**, but I could do a little bit of **BackEnd Development**
++ :search: You can reach me on [Linkedin](https://www.linkedin.com/in/ihwan-mualana-29759b199/)
 
 ## Programing Language
 
