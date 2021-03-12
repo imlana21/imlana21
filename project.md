@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lana404" style="height: 100%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lana404&layout=compact&show_icons=true&theme=light" height="195px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lana404">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lana404&layout=compact&show_icons=true&theme=light" height="196px">
 </p>
 
 # Simple Project
