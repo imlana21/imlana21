@@ -40,4 +40,4 @@ You can call me Lana
   <img src="https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=Flutter&logo=flutter&logoColor=%23008080">
 <p align="center">
 
-My GitHub Stats [here](https://github-readme-streak-stats.herokuapp.com/?user=lana404">)
+My Simple Project [here](https://github.com/lana404/lana404/blob/main/project.md)
