@@ -28,6 +28,9 @@
 
 1. [EPL](https://github.com/imlana21/flutter_epl)
 
+## NextJS
+1. [Next Stisla](https://github.com/imlana21/next-stisla)
+
 
 ## Other
 
