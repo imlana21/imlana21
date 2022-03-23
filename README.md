@@ -38,6 +38,10 @@ You can call me Lana
   <img src="https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=Laravel&logo=laravel&logoColor=%0">
 
   <img src="https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=Flutter&logo=flutter&logoColor=%23008080">
+  
+  <img src="https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=React&logo=react&logoColor=%23008080">
+  
+  <img src="https://img.shields.io/travis/rust-lang/rust?color=%23fb8c00&label=NextJS&logo=react&logoColor=%23008080">
 <p align="center">
 
 My Stats and Simple Project [here](https://github.com/lana404/lana404/blob/main/project.md)
