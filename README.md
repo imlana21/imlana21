@@ -14,7 +14,8 @@ int main() {
 You can call me Lana
 
 + :book: I'm currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/)
-+ :computer: I'm looking to collaborate with [Angular TS](https://angular.io/)
++ 🥇 My Favorite programing language is JavaScript and TypeScript
++ :computer: I'm looking to collaborate with [Angular TS](https://angular.io/), [React](https://reactjs.org/), [NextJS](nextjs.org) for Project
 + :dart: Focused on **FrontEnd Development**, but I could do a little bit of **BackEnd Development**
 + :iphone: You can reach me on [Linkedin](https://www.linkedin.com/in/ihwan-mualana-29759b199/)
 
