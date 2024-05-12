@@ -13,10 +13,10 @@ int main() {
 
 You can call me Lana
 
-+ :book: I'm currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/)
-+ 🥇 My Favorite programing language is JavaScript and TypeScript
-+ :computer: I'm looking to collaborate with [Angular TS](https://angular.io/), [React](https://reactjs.org/), [NextJS](nextjs.org) for Project
-+ :dart: Focused on **FrontEnd Development**, but I could do a little bit of **BackEnd Development**
++ :book: I'm currently learning about [Godot](https://dart.dev/) and Game Programming
++ 🥇 My Favorite programing language is JavaScript
++ :computer: I'm looking to collaborate with [Angular TS](https://angular.io/), [React](https://reactjs.org/), [NextJS](nextjs.org), [Laravel](https://laravel.com/) and [Godot Engine](https://godotengine.org/) for Project
++ :dart: Focused on **Game Development**, but I could do **Website Development** (Fullstack, FrontEnd or BackEnd)
 + :iphone: You can reach me on [Linkedin](https://www.linkedin.com/in/ihwan-mualana-29759b199/)
 
 ## Programing Language
