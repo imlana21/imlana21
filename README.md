@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Nama Kamu] 👋</h1>
+<h1 align="center">Hi there, I'm Lana 👋</h1>
 
 <h3 align="center">Frontend Web Developer • GIS Frontend Enthusiast</h3>
 
@@ -8,18 +8,17 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 About Me
 
-- 🎯 Fokus utama: **Frontend Web Development** & **GIS Frontend** (peta interaktif, visualisasi data spasial)
-- 🌱 Sedang mendalami: *(tulis di sini, misal: WebGL, MapLibre, dsb.)*
-- 💬 Tanya saya soal: TypeScript, Svelte/React, OpenLayers, atau arsitektur frontend
-- 📫 Cara menghubungi saya: *(tambahkan email / LinkedIn kamu)*
+- 🎯 Main focus: **Frontend Web Development** & **GIS Frontend** (interactive maps, spatial data visualization)
+- 🌱 Currently learning: WebGL, MapLibre, etc.
+- 💬 Ask me about: TypeScript, Svelte/React, OpenLayers, or frontend architecture
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Bahasa Pemrograman**
+**Programming Languages**
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -28,7 +27,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-**Framework & Library**
+**Frameworks & Libraries**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
@@ -41,7 +40,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-**Tools & Lainnya**
+**Tools & Others**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -53,7 +52,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-> Catatan: badge di atas cuma contoh umum — hapus/ganti yang tidak kamu pakai (misal kalau tidak pakai PostgreSQL, tinggal hapus barisnya).
+> Note: the badges above are general examples — remove/swap the ones you don't actually use (e.g. if you don't use PostgreSQL, just delete that line).
 
 ---
 
@@ -68,20 +67,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
-> Ganti `USERNAME` di URL atas dengan username GitHub kamu.
+> Replace `USERNAME` in the URLs above with your GitHub username.
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/ihwan-mualana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:email@example.com">
+  <a href="mailto:ihwan.cfc@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/USERNAME" target="_blank">
+  <a href="https://instagram.com/ihmuna" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
