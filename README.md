@@ -57,11 +57,6 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imlana21&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlana21&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imlana21&theme=tokyonight&hide_border=true" />
 </p>
 
