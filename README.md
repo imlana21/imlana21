@@ -52,22 +52,18 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-> Note: the badges above are general examples — remove/swap the ones you don't actually use (e.g. if you don't use PostgreSQL, just delete that line).
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imlana21&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlana21&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imlana21&theme=tokyonight&hide_border=true" />
 </p>
-
-> Replace `USERNAME` in the URLs above with your GitHub username.
 
 ---
 
